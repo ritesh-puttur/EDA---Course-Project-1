@@ -93,21 +93,22 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 1
 
+![Rplot06](https://github.com/ritesh-puttur/EDA---Course-Project-1/assets/95681619/e370e911-8ca2-410a-82ad-98970f41b20f)
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+ 
 
