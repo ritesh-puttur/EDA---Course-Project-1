@@ -101,14 +101,21 @@ The four plots that you will need to construct are shown below.
 ### Plot 2
 
 
+![Rplot07](https://github.com/ritesh-puttur/EDA---Course-Project-1/assets/95681619/00a6e4c7-c747-48bd-a99f-b5e7024257eb)
 
 
 ### Plot 3
 
 
+![Rplot08](https://github.com/ritesh-puttur/EDA---Course-Project-1/assets/95681619/123d086c-19d2-4e59-8967-5b7458d9e1a8)
 
 
 ### Plot 4
+
+
+![Rplot09](https://github.com/ritesh-puttur/EDA---Course-Project-1/assets/95681619/6a8e6e7a-cac0-41ff-a23c-c0b2357d2364)
+
+
 
  
 
